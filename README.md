@@ -34,8 +34,6 @@ Department analytics and filtering
 
 Team — ObsidianMinds
 
-Nirmit Chaurasia
-
-Satyam Sanu
-
+Nirmit Chaurasia,
+Satyam Sanu,
 Trasvi
