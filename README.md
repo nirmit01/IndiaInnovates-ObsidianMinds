@@ -17,7 +17,7 @@ Admin command center dashboard
 Ward-level geographic complaint heatmaps
 Department analytics and filtering
 
-Team — NightWalkers
+Team — ObsidianMinds
 
 Nirmit Chaurasia
 Satyam Sanu
