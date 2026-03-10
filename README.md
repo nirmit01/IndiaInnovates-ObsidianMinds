@@ -13,6 +13,8 @@ A key feature of the system is the ward-level heatmap visualization, which highl
 Smart PS-CRM demonstrates how AI, real-time systems, and data visualization can modernize civic grievance management and make municipal governance more responsive and transparent.
 
 
+.........................................
+
 
 ✨ Features
 
@@ -30,6 +32,8 @@ Ward-level geographic complaint heatmaps
 
 Department analytics and filtering
 
+
+............................................................
 
 
 Team — ObsidianMinds
